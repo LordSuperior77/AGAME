@@ -1,0 +1,4 @@
+using System;
+
+Console.WriteLine("A thing i guess");
+Console.ReadLine;
