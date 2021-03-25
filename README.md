@@ -1,10 +1,10 @@
 # AGAME
-figure this out later
+* figure this out later
 
 # Art
-Draw something
-Remember to change art project on github
+* Draw a GIF
+* Draw a detailed item
 
 # Function
-Code a function
-Figure a general direction
+* Code a function
+* Figure a general direction
