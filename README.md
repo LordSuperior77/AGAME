@@ -1,10 +1,6 @@
 # AGAME
 * figure this out later
 
-# Art
-* Draw a GIF
-* Draw a detailed item
-
-# Function
-* Code a function
+# Functions to do
 * Figure a general direction
+* Fix "errors" in Main
