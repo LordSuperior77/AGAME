@@ -1,9 +1,16 @@
-class MainClass {
-  public static void Main (string[] args) {
-    Console.WriteLine("Hello World");
-    Console.WriteLine("Hello World");
-
-  }
+namespace MainSpace
+{
   
+  class MainClass 
+  {
+  public static void Main (string[] args) 
+    {
+    Console.WriteLine("plz work");
+    Console.ReadKey();
+    }
+  
+  }
+
 }
+
 
