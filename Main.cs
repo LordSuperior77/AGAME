@@ -1,8 +1,7 @@
 class MainClass {
   public static void Main (string[] args) {
-    Console.WriteLine("Hello World");
-    Console.WriteLine("Hello World");
-
+    Console.WriteLine("If you see this it works");
+    
   }
   
 }
