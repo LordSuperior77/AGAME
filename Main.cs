@@ -1,8 +1,14 @@
-class MainClass {
-  public static void Main (string[] args) {
-    Console.WriteLine("If you see this it works");
-    
-  }
+namespace MainSpace
+{
+  class MainClass 
+  {
+  static void Main (string[] args) 
+    {
+    Console.WriteLine("plz work");
+    Console.WriteLine("it works but not really");
+    Console.ReadKey();
+    }
   
-}
+  }
 
+}
