@@ -4,7 +4,7 @@
 This is the website for AGAME.
 More soon...
 
-
+[Github pages](https://lordsuperior77.github.io/AGAME/)
 
 [Link](url) and ![Image](src)
 
