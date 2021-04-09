@@ -4,6 +4,8 @@
 This is the website for AGAME.
 More soon...
 
+Probably gonna use Love2d for this
+
 [Github pages](https://lordsuperior77.github.io/AGAME/)
 
 [Link](url) and ![Image](src)
